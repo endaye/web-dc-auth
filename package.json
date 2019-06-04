@@ -1,0 +1,32 @@
+{
+  "name": "web-dc-auth",
+  "version": "1.0.0",
+  "description": "Dicord OAuth2 Test",
+  "main": "server.js",
+  "dependencies": {
+    "btoa": "^1.2.1",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/endaye/web-dc-auth.git"
+  },
+  "keywords": [
+    "Discord",
+    "Node",
+    "OAuth2"
+  ],
+  "author": "Yuancheng Zhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/endaye/web-dc-auth/issues"
+  },
+  "homepage": "https://github.com/endaye/web-dc-auth#readme"
+}
