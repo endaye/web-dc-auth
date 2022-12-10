@@ -5,7 +5,7 @@
   "main": "server.js",
   "dependencies": {
     "btoa": "^1.2.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node-fetch": "^2.6.1",
     "request": "^2.88.0"
   },
